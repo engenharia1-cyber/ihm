@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1e1f23"/>
+  <circle cx="256" cy="270" r="180" fill="none" stroke="#3d4049" stroke-width="30"/>
+  <path d="M 122 304 A 152 152 0 0 1 390 304" fill="none" stroke="#22D3EE" stroke-width="34" stroke-linecap="round"/>
+  <line x1="256" y1="270" x2="356" y2="166" stroke="#EF4444" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="256" cy="270" r="22" fill="#F8FAFC"/>
+  <text x="256" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700"
+        fill="#22D3EE" text-anchor="middle" letter-spacing="2">IHM</text>
+</svg>
